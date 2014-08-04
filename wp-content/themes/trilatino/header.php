@@ -23,7 +23,7 @@
 					</button>
 					<a class="logo" href="<?php echo site_url();?>">
 						<img src="<?php bloginfo('template_directory'); ?>/assets/images/logo.png">
-						<h1>Trilatino Triathlon Club</h1>
+						<h1 class="branding">Trilatino Triathlon Club</h1>
 					</a>
 				</div>
 

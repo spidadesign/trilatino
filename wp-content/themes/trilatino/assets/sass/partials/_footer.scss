@@ -1,0 +1,23 @@
+footer{
+	height: 205px;
+	background-color: #00264C;
+	position: absolute;
+	bottom: 0;
+	width:100%;
+	padding-top: 32px;
+	padding-bottom: 35px;
+	color: #fff;
+	ul{
+		float: right;
+	}
+	li{
+		a{
+			color:#fff;
+			&:hover{
+				text-decoration: none;
+				color: #fff;
+				line-height: 2.0em;
+			}
+		}
+	}
+}
