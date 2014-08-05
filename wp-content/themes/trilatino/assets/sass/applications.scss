@@ -1,8 +1,12 @@
 //Bootstrap imports
 @import "../bower_components/bootstrap-sass-twbs/assets/stylesheets/bootstrap";
 
+
 //Modules
 @import "modules/all";
+
+//General Styles
+@import "partials/general";
 
 //Partials
 @import "partials/base";
@@ -12,13 +16,3 @@
 //Plugins
 @import "../bower_components/slick.js/slick/slick";
 
-
-//General Styles
-body{
-	font-family: $arial;
-	color: #00264D;
-}
-.fr{float: right;}
-.fl{float: left;}
-.clear { clear:both; }
-.container{max-width:940px;}

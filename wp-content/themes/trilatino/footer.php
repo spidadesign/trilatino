@@ -1,11 +1,21 @@
+		</div>
+		</div>
 		<footer>
+		<?php 
+			$footer_args = array('post_type' => 'block', 'post_name'=>'footer'); 
+			$footer = get_posts($footer_args);
+			//echo "<pre>"; print_r($footer); echo "</pre>";
+		?>
+
 			<div class="container">
-				<div class="col-md-7">
-					<h2>About TriLatino</h2>
-					<p>TriLatino Triathlon Club is a 501©(3) nonprofit organization dedicated to increasing the participation of Latinos in triathlon and endurance sports, promoting healthy lifestyles, and uplifting our communities.</p>
-					<p>You don’t have to be Latino to join. You just need a lil’ bit of salsa in your soul.</p>
+				<div class="col-md-8">
+					<?php 
+						foreach($footer as $footer_text):
+							echo $footer_text->post_content;
+						endforeach;
+					?>
 				</div>
-				<div class="col-md-4 col-md-offset-1">
+				<div class="col-md-4 links">
 				<ul>
 						<li><a href="#">Sitemap</a></li>
 						<li><a href="#">Privacy</a></li>
@@ -27,5 +37,12 @@
 		<script src="<?php bloginfo('template_directory'); ?>/assets/bower_components/slick.js/slick/slick.min.js"></script>
 		<script src="<?php bloginfo('template_directory'); ?>/assets/bower_components/html5shiv/dist/html5shiv.min.js"></script>
 		<script src="<?php bloginfo('template_directory'); ?>/assets/javascripts/common.js"></script>
+		<script>
+			$(document).ready(function(){
+				$('.sidebar-home-slider').slick({
+	  				//setting-name: setting-value
+				});
+			});
+		</script>
 	</body>
 </html>

@@ -2,4 +2,10 @@
 	/* Template Name: Home */
 	get_header();
 ?>
-<?php get_footer(); ?>
+<div class="col-md-9">
+	<?php the_post_thumbnail('original', array('class'=>'img-responsive')); ?>
+</div>
+<?php
+	get_template_part('sidebars/home');
+	get_footer();
+?>

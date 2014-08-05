@@ -5306,6 +5306,86 @@ button.close {
   height: 115px;
   background: #e9e9e9; }
 
+.navbar {
+  max-height: 130px; }
+
+.navbar-header {
+  max-height: 130px; }
+
+.sidebar {
+  max-width: 285px; }
+  .sidebar .title {
+    background-color: #00264c;
+    color: #fff;
+    font-size: 14px;
+    height: 25px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase; }
+
+a.btn {
+  border-radius: 0;
+  border: none;
+  color: #FFF;
+  font-size: 18px;
+  width: 100%;
+  height: 52px;
+  margin-bottom: 11px;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 700;
+  padding-top: 15px; }
+  a.btn:hover {
+    color: #fff;
+    text-decoration: none; }
+  a.btn.get_started {
+    background: url(../images/striped-button.jpg) center center no-repeat; }
+  a.btn.donate {
+    background: #ef4056; }
+
+.individial-coach {
+  background: url("../images/bg_product_attributes_bottom.png") no-repeat scroll center bottom transparent;
+  margin: 0 0 0.25em 1.5em;
+  padding: 0; }
+  .individial-coach a {
+    color: #00264c;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none; }
+  .individial-coach span img {
+    max-height: 96px;
+    max-width: 96px; }
+
+.coaches {
+  background-color: #c5cbd1;
+  padding-top: 10px; }
+
+body {
+  font-family: "Arial", sans-serif;
+  color: #00264D; }
+
+.fr {
+  float: right; }
+
+.fl {
+  float: left; }
+
+.clear {
+  clear: both; }
+
+.container {
+  max-width: 960px; }
+
+.col-md-9 {
+  max-width: 635px; }
+
+h2 {
+  font-family: "Book Antiqua",Palatino,serif;
+  font-size: 25px;
+  margin-top: 10px;
+  color: #EF4056; }
+
 .top-bar {
   background-color: #00264c;
   height: 60px;
@@ -5329,20 +5409,26 @@ h1.branding {
 footer {
   height: 205px;
   background-color: #00264C;
-  position: absolute;
-  bottom: 0;
   width: 100%;
   padding-top: 32px;
   padding-bottom: 35px;
   color: #fff; }
+  footer h2 {
+    font-size: 22px;
+    font-family: "Arial", sans-serif;
+    color: #fff; }
   footer ul {
     float: right; }
-  footer li a {
-    color: #fff; }
-    footer li a:hover {
-      text-decoration: none;
+  footer li {
+    list-style-type: none; }
+    footer li a {
       color: #fff;
       line-height: 2.0em; }
+      footer li a:hover {
+        text-decoration: none;
+        color: #fff; }
+  footer .links {
+    padding-top: 15px; }
 
 /* Slider */
 .slick-slider {
@@ -5519,19 +5605,3 @@ footer {
         -moz-osx-font-smoothing: grayscale; }
     .slick-dots li.slick-active button:before {
       opacity: 0.75; }
-
-body {
-  font-family: "Arial", sans-serif;
-  color: #00264D; }
-
-.fr {
-  float: right; }
-
-.fl {
-  float: left; }
-
-.clear {
-  clear: both; }
-
-.container {
-  max-width: 940px; }
