@@ -6118,6 +6118,2337 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/css\/cpt.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/css\/cpt.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/css\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/css\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/css\/jquery-ui-fresh.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/css\/jquery-ui-fresh.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/nf-badge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3670,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/nf-badge.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/nf-badge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-new-form.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17148,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-new-form.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-new-form.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-seq-nums.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7352,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-seq-nums.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-seq-nums.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-edit-screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47209,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-edit-screen.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-edit-screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-edit-table.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26190,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-edit-table.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-edit-table.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-table.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25910,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-table.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/screenshots\/ss-sub-table.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_333333_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3702,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_333333_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_333333_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_999999_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3702,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_999999_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_999999_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_cc0000_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3702,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_cc0000_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/images\/ui-icons_cc0000_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/subs-cpt.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/subs-cpt.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/min\/subs-cpt-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/js\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/js\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/classes\/form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/classes\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/classes\/sub.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/sub.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/classes\/subs-cpt.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/subs-cpt.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/classes\/subs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/subs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/CONTRIBUTING.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/CONTRIBUTING.md",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/CONTRIBUTING.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/fonts.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/fonts.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/jquery.rating.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/jquery.rating.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/ninja-forms-admin.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/ninja-forms-admin.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/ninja-forms-display.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/ninja-forms-display.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/qtip.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/qtip.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4197,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4197,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_454545_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4197,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_454545_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_454545_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_888888_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4197,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_888888_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_888888_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4197,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/jquery-smoothness.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/css\/smoothness\/jquery-smoothness.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/images\/empty_star_hover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2152,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/empty_star_hover.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/empty_star_hover.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/images\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/images\/ninja-head-ico-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 290,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/ninja-head-ico-small.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/ninja-head-ico-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/images\/no.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 776,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/no.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/no.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/images\/wpnj-ninja-head.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 420,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/wpnj-ninja-head.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/wpnj-ninja-head.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/images\/yes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/yes.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/images\/yes.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/actions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/actions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/activation.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/activation.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/ajax.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/ajax.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/display-screen-options.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/display-screen-options.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/calc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/calc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/custom-class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/custom-class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/desc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/desc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/edit-field.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/edit-field.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/help.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/help.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/hr.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/hr.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/input-limit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/input-limit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/label.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/label.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/li.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/li.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/list-terms.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/list-terms.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/post-meta-values.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/post-meta-values.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/remove-button.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/remove-button.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/req.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/req.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/save-button.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/save-button.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/sub-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/sub-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/user-info-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/edit-field\/user-info-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/form-preview.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/form-preview.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/output-tab-metabox.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/output-tab-metabox.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-addons\/tabs\/addons\/addons.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-addons\/tabs\/addons\/addons.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-backup\/impexp-backup.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-backup\/impexp-backup.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-backup\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-backup\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-fields\/impexp-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-fields\/impexp-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-fields\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-fields\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-forms\/impexp-forms.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-forms\/impexp-forms.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-forms\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-forms\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-subs\/impexp-subs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-subs\/impexp-subs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-subs\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/impexp-subs\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-impexp\/tabs\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/ajax-settings\/ajax-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/ajax-settings\/ajax-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/ajax-settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/ajax-settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/favorite-fields\/favorite-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/favorite-fields\/favorite-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/favorite-fields\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/favorite-fields\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/general-settings\/general-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/general-settings\/general-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/general-settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/general-settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/label-settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/label-settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/label-settings\/label-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/label-settings\/label-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/license-settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/license-settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/license-settings\/license-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms-settings\/tabs\/license-settings\/license-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/edit-field-ul.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/edit-field-ul.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/empty-rte.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/empty-rte.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/field-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/field-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/help.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/help.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/def-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/def-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/fav-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/fav-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/layout-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/layout-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/payment-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/payment-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/post-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/post-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/template-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/template-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/user-info.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/field-settings\/sidebars\/user-info.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-list\/form-list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-list\/form-list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-list\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-list\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-preview\/form-preview.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-preview\/form-preview.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-preview\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-preview\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-settings\/form-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-settings\/form-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-settings\/help.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-settings\/help.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/form-settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/ninja-forms\/tabs\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/system-status-html.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/system-status-html.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/system-status.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/pages\/system-status.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/post-metabox.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/post-metabox.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/register-screen-help.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/register-screen-help.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/register-screen-options.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/register-screen-options.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/save.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/save.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/scripts.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/scripts.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/sidebar-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/sidebar-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/sidebar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/tabs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/tabs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/convert-subs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/convert-subs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/upgrade-functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/upgrade-functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/upgrades.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/upgrades\/upgrades.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/welcome.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/welcome.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/class-extension-updater.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/class-extension-updater.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/classes\/class-nf-system-status.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/classes\/class-nf-system-status.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/classes\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/classes\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/database.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/database.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/deprecated.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/deprecated.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/calc-field-class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/calc-field-class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/clear-complete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/clear-complete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/default-value-filter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/default-value-filter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/desc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/desc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/display-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/display-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/field-error-message.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/field-error-message.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/field-type.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/field-type.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/help.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/help.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/inside-label-hidden.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/inside-label-hidden.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/label.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/label.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/list-term-filter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/list-term-filter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/restore-progress.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/fields\/restore-progress.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/close-form-tag.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/close-form-tag.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/display-form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/display-form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/fields-wrap.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/fields-wrap.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-cont.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-cont.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-title.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-title.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-visibility.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-visibility.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-wrap.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/form-wrap.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/hidden-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/hidden-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/nonce.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/nonce.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/open-form-tag.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/open-form-tag.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/process-message.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/process-message.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/required-label.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/required-label.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/response-message.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/response-message.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/sub-limit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/form\/sub-limit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/attach-post-media.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/attach-post-media.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/attachment-csv.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/attachment-csv.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/class-display-loading.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/class-display-loading.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/class-ninja-forms-processing.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/class-ninja-forms-processing.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/email-add-fields.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/email-add-fields.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/email-admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/email-admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/email-user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/email-user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/error-test.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/error-test.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/fields-post-process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/fields-post-process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/fields-pre-process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/fields-pre-process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/fields-process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/fields-process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/filter-msgs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/filter-msgs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/post-process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/post-process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/pre-process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/pre-process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/req-fields-pre-process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/req-fields-pre-process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/save-sub.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/save-sub.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/term-name-filter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/term-name-filter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/update-terms.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/processing\/update-terms.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/display\/scripts.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/display\/scripts.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/EDD_SL_Plugin_Updater.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/EDD_SL_Plugin_Updater.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/eos.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/eos.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/field-type-groups.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/field-type-groups.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/calc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/calc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/checkbox.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/checkbox.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/country.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/country.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/credit-card.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/credit-card.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/desc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/desc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/field-template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/field-template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/hidden.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/hidden.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/honeypot.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/honeypot.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/hr.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/hr.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/number.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/number.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/organizer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/organizer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/password.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/password.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/rating.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/rating.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/spam.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/spam.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/submit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/submit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/tax.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/tax.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/textarea.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/textarea.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/textbox.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/textbox.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/fields\/timed-submit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/fields\/timed-submit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/forms\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/forms\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/from-setting-check.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/from-setting-check.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/import-export.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/import-export.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/ninja-settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/ninja-settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/register.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/register.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/reply-to-check.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/reply-to-check.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/shortcode.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/shortcode.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/stack.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/stack.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/widget.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/widget.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/dev\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/dev\/jquery.phpdate.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/jquery.phpdate.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/min\/jquery.phpdate-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/dev\/jquery.rating.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/jquery.rating.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/min\/jquery.rating-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/dev\/jquery.ui.nestedSortable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/jquery.ui.nestedSortable.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/min\/jquery.ui.nestedSortable-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/dev\/ninja-forms-admin.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/ninja-forms-admin.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/min\/ninja-forms-admin-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/dev\/ninja-forms-display.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/ninja-forms-display.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/min\/ninja-forms-display-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/dev\/word-and-character-counter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/word-and-character-counter.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/dev\/min\/word-and-character-counter-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/autoNumeric.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/autoNumeric.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/autoNumeric.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.maskedinput.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.maskedinput.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/jquery.maskedinput.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.phpDate.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.phpDate.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/jquery.phpDate.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.qtip.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.qtip.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/jquery.qtip.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.rating.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/jquery.rating.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/jquery.rating.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/ninja-forms-admin.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/ninja-forms-admin.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/ninja-forms-admin.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/ninja-forms-display.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/ninja-forms-display.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/ninja-forms-display.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/js\/min\/word-and-character-counter.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/word-and-character-counter.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/js\/min\/min\/word-and-character-counter.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/ninja-forms\/lang\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/lang\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/ninja-forms.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/ninja-forms.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/README.md",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/wp-content\/plugins\/post-types-order\/css\/cpt.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -6175,6 +8506,1658 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 335,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 332,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6922,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4549,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_454545_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6992,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_454545_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_454545_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_888888_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6999,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_888888_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_888888_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4549,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/jquery-ui-1.10.3.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/jquery-ui-1.10.3.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/jquery-ui-1.10.3.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/smoothness\/jquery-ui-1.10.3.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder-admin.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder-admin.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder-admin.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder-admin.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/css\/visual-form-builder.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 863,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-2x.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 719,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-2x.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-vs-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 761,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-vs-2x.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-vs-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-vs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-vs.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark-vs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-dark.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows-vs-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 723,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-vs-2x.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-vs-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows-vs.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-vs.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows-vs.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/arrows.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/arrows.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/vfb-form-items-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10585,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-form-items-2x.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-form-items-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/vfb-form-items.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4488,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-form-items.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-form-items.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/vfb-interface-icons-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3320,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-interface-icons-2x.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-interface-icons-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/vfb-interface-icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1394,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-interface-icons.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb-interface-icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/images\/vfb_icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2952,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb_icon.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/images\/vfb_icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/admin-field-options.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/admin-field-options.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/admin-form-creator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/admin-form-creator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/admin-new-form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/admin-new-form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/class-entries-detail.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/class-entries-detail.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/class-entries-list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/class-entries-list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/class-export.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/class-export.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/class-forms-list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/class-forms-list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/class-widget.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/class-widget.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/email.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/email.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/includes\/form-output.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/includes\/form-output.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/ckeditor.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/ckeditor.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/min\/ckeditor-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/config.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/config.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/min\/config-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/contents.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/contents.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/lang\/en.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/lang\/en.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/lang\/min\/en-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/dialog\/dialogDefinition.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/dialog\/dialogDefinition.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/dialog\/min\/dialogDefinition-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10452,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/icons.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/dialogs\/anchor.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/dialogs\/anchor.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/dialogs\/min\/anchor-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/dialogs\/link.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/dialogs\/link.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/dialogs\/min\/link-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/images\/anchor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 566,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/images\/anchor.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/plugins\/link\/images\/anchor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_ie.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_ie7.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_ie7.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_ie8.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_ie8.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_iequirks.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_iequirks.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_opera.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/dialog_opera.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_gecko.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_gecko.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_ie.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_ie7.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_ie7.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_ie8.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_ie8.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_iequirks.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/editor_iequirks.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20881,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/icons.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/arrow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/arrow.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/arrow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 389,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/close.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/mini.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 818,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/mini.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/images\/mini.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/readme.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/readme.md",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/ckeditor\/skins\/moono\/readme.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-cs_CS.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-cs_CS.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-cs_CS-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-de_DE.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-de_DE.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-de_DE-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-el_GR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-el_GR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-el_GR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-en_AU.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-en_AU.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-en_AU-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-en_GB.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-en_GB.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-en_GB-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-en_US.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-en_US.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-en_US-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-es_ES.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-es_ES.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-es_ES-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-fr_FR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-fr_FR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-fr_FR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-he_IL.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-he_IL.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-he_IL-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-hu_HU.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-hu_HU.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-hu_HU-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-id_ID.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-id_ID.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-id_ID-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-it_IT.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-it_IT.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-it_IT-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ja_JP.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ja_JP.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-ja_JP-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ko_KR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ko_KR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-ko_KR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-nl_NL.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-nl_NL.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-nl_NL-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-pl_PL.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-pl_PL.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-pl_PL-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-pt_BR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-pt_BR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-pt_BR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-pt_PT.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-pt_PT.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-pt_PT-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ro_RO.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ro_RO.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-ro_RO-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ru_RU.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-ru_RU.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-ru_RU-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-sv_SE.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-sv_SE.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-sv_SE-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-tr_TR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-tr_TR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-tr_TR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-zh_CN.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-zh_CN.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-zh_CN-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-zh_TW.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/datepicker-zh_TW.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/datepicker\/min\/datepicker-zh_TW-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-cs_CS.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-cs_CS.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-cs_CS-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-de_DE.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-de_DE.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-de_DE-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-el_GR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-el_GR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-el_GR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-en_AU.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-en_AU.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-en_AU-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-en_GB.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-en_GB.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-en_GB-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-en_US.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-en_US.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-en_US-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-es_ES.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-es_ES.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-es_ES-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-fr_FR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-fr_FR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-fr_FR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-he_IL.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-he_IL.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-he_IL-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-hu_HU.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-hu_HU.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-hu_HU-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-id_ID.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-id_ID.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-id_ID-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-it_IT.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-it_IT.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-it_IT-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ja_JP.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ja_JP.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-ja_JP-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ko_KR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ko_KR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-ko_KR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-nl_NL.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-nl_NL.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-nl_NL-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-pl_PL.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-pl_PL.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-pl_PL-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-pt_BR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-pt_BR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-pt_BR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-pt_PT.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-pt_PT.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-pt_PT-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ro_RO.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ro_RO.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-ro_RO-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ru_RU.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-ru_RU.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-ru_RU-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-sv_SE.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-sv_SE.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-sv_SE-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-tr_TR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-tr_TR.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-tr_TR-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-zh_CN.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-zh_CN.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-zh_CN-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-zh_TW.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/messages-zh_TW.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/i18n\/validate\/min\/messages-zh_TW-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/jquery.metadata.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/jquery.metadata.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/jquery.metadata-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/jquery.ui.nestedSortable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/jquery.ui.nestedSortable.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/jquery.ui.nestedSortable-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/jquery.ui.nestedSortable.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/jquery.ui.nestedSortable.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/jquery.ui.nestedSortable.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/jquery.validate.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/jquery.validate.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/jquery.validate.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/vfb-admin.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/vfb-admin.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/vfb-admin-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/vfb-admin.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/vfb-admin.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/vfb-admin.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/vfb-validation.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/vfb-validation.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/vfb-validation-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/js\/vfb-validation.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/vfb-validation.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/js\/min\/vfb-validation.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/uninstall.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/uninstall.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/visual-form-builder\/visual-form-builder.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/visual-form-builder\/visual-form-builder.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/admin\/class-product-addon-admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/admin\/class-product-addon-admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-addon-option.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-addon-option.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-addon-panel.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-addon-panel.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-addon.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-addon.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-global-admin-add.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-global-admin-add.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-global-admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/admin\/html-global-admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/assets\/css\/admin.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/css\/admin.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/assets\/css\/admin.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/css\/admin.less",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/css\/admin.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/assets\/css\/frontend.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/css\/frontend.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/accounting.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/accounting.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/min\/accounting-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/accounting.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/accounting.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/min\/accounting.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/addons.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/addons.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/min\/addons-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/addons.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/addons.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/assets\/js\/min\/addons.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/classes\/class-product-addon-cart.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/classes\/class-product-addon-cart.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/classes\/class-product-addon-display.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/classes\/class-product-addon-display.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/abstract-class-product-addon-field.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/abstract-class-product-addon-field.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-custom.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-custom.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-file-upload.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-file-upload.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-select.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/classes\/fields\/class-product-addon-field-select.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/Gruntfile.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/Gruntfile.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/min\/Gruntfile-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/product-addons.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/product-addons.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/addon-end.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/addon-end.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/addon-start.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/addon-start.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/checkbox.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/checkbox.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/custom.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/custom.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/custom_price.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/custom_price.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/custom_textarea.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/custom_textarea.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/file_upload.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/file_upload.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/input_multiplier.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/input_multiplier.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/radiobutton.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/radiobutton.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/select.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/templates\/addons\/select.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/woo-includes\/class-wc-dependencies.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/woo-includes\/class-wc-dependencies.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/woocommerce-product-addons\/woo-includes\/woo-functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/woocommerce-product-addons\/woo-includes\/woo-functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/wp-content\/plugins\/woocommerce\/assets\/css\/activation.css": {
 		"fileType": 16,
@@ -14315,6 +18298,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/themes\/trilatino\/assets\/images\/bg_product_attributes_bottom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1303,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/assets\/images\/bg_product_attributes_bottom.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/assets\/images\/bg_product_attributes_bottom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/themes\/trilatino\/assets\/images\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -14628,6 +18622,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/themes\/trilatino\/page-templates\/coaching.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/page-templates\/coaching.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/wp-content\/themes\/trilatino\/page-templates\/contact.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14646,6 +18649,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/themes\/trilatino\/page-templates\/training.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/page-templates\/training.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/trilatino\/sidebar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/trilatino\/sidebars\/coaches.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/sidebars\/coaches.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/wp-content\/themes\/trilatino\/sidebars\/home.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14660,6 +18690,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/sidebars\/pages.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/trilatino\/single-training.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/single-training.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -15113,6 +19152,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12253,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-300x167.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23692,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-300x167.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-300x167.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-300x300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36826,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-300x300.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-300x300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5495,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 281022,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_HOME_685x383_31.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_4-150x150.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15146,6 +19240,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10778,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5350,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72674,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_41.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME-150x150.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15175,6 +19302,39 @@
 		"initialSize": 61800,
 		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10572,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5464,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61800,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_rightcol_banners_285x221_HOME1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15230,6 +19390,171 @@
 		"initialSize": 139264,
 		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_1.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10169,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-300x216.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24743,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-300x216.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-300x216.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-300x94.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14536,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-300x94.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-300x94.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5237,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139264,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_ABOUT_685x216_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9899,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-300x216.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24660,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-300x216.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-300x216.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-300x94.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14451,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-300x94.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-300x94.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5033,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145170,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9899,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-300x216.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24660,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-300x216.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-300x216.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-300x94.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14451,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-300x94.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-300x94.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5033,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145170,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_COACHING_685x216_v11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15505,6 +19830,61 @@
 		"initialSize": 126513,
 		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-RUN_685x216_1.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-RUN_685x216_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14346,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-300x216.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38213,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-300x216.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-300x216.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-300x94.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17616,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-300x94.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-300x94.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6532,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210687,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -8,6 +8,5 @@
 </div>
 
 <?php 
-	get_template_part('sidebars/pages');
 	get_footer(); 
 ?>
