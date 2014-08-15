@@ -5307,7 +5307,8 @@ button.close {
   background: #e9e9e9; }
 
 .navbar {
-  max-height: 130px; }
+  max-height: 115px;
+  background-color: #fbfcfc; }
 
 .navbar-header {
   max-height: 130px; }
@@ -5361,6 +5362,18 @@ a.btn {
   background-color: #c5cbd1;
   margin-top: 10px; }
 
+.modal {
+  top: 163px;
+  left: 305px;
+  position: fixed;
+  width: 830px;
+  height: 453px; }
+  .modal .modal-footer {
+    border: none; }
+
+.modal-body {
+  height: auto; }
+
 body {
   font-family: "Arial", sans-serif;
   color: #00264D; }
@@ -5384,6 +5397,9 @@ h2 {
   font-family: "Book Antiqua",Palatino,serif;
   font-size: 25px;
   margin-top: 10px;
+  color: #EF4056; }
+
+.col-md-9 a :visited, .col-md-9 a :link, .col-md-9 a :hover {
   color: #EF4056; }
 
 .top-bar {

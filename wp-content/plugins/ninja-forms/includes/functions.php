@@ -50,11 +50,16 @@ function ninja_forms_subval_sort( $a, $subkey ) {
 	foreach($a as $k=>$v) {
 		$b[$k] = strtolower($v[$subkey]);
 	}
-	asort($b);
-	foreach($b as $key=>$val) {
-		$c[] = $a[$key];
+	if ( is_array ( $b ) ) {
+		asort($b);
+		foreach($b as $key=>$val) {
+			$c[] = $a[$key];
+		}
+		return $c;		
+	} else {
+		return $a;
 	}
-	return $c;
+
 }
 
 /**
@@ -81,7 +86,6 @@ function nf_get_begin_date( $begin_date ) {
 	}
 	$begin_date .= '00:00:00';
 	$begin_date = new DateTime( $begin_date );
-	$begin_date = $begin_date->format("Y-m-d G:i:s");
 
 	return $begin_date;
 }
@@ -110,7 +114,6 @@ function nf_get_end_date( $end_date ) {
 	}
 	$end_date .= '23:59:59';
 	$end_date = new DateTime( $end_date );
-	$end_date = $end_date->format("Y-m-d G:i:s");
 
 	return $end_date;
 }

@@ -19,15 +19,15 @@
 				<div class="col-md-4 links">
 				<ul>
 						<li><a href="#">Sitemap</a></li>
-						<li><a href="#">Privacy</a></li>
-						<li><a href="#">Terms</a></li>
+						<li><a href="<?php echo site_url();?>/privacy">Privacy</a></li>
+						<li><a href="<?php echo site_url();?>/terms">Terms</a></li>
 						<li><a href="#">Directory</a></li>
 					</ul>
 					<ul>
-						<li><a href="#">Contact Us</a></li>
-						<li><a href="#">Email Preferences</a></li>
+						<li><a href="<?php echo site_url();?>/contact">Contact Us</a></li>
+						<li><a href="">Email Preferences</a></li>
 						<li><a href="#">Shop</a></li>
-						<li><a href="#">Volunteer</a></li>
+						<li><a href="<?php echo site_url();?>/volunteer">Volunteer</a></li>
 					</ul>
 				</div>
 			</div>

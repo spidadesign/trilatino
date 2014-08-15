@@ -6280,6 +6280,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/step-processing.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/step-processing.js",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/min\/step-processing-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/wp-content\/plugins\/ninja-forms\/assets\/js\/dev\/subs-cpt.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -6300,6 +6311,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/plugins\/ninja-forms\/classes\/download-all-subs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/download-all-subs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/wp-content\/plugins\/ninja-forms\/classes\/form.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6314,6 +6334,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/classes\/step-processing.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/classes\/step-processing.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7361,6 +7390,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/sidebar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/ninja-forms\/includes\/admin\/step-processing.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/ninja-forms\/includes\/admin\/step-processing.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -18433,6 +18471,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/wp-content\/themes\/trilatino\/assets\/sass\/modules\/partials\/_modals.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/assets\/sass\/modules\/partials\/_modals.scss",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/assets\/sass\/modules\/stylesheets\/_modals.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/wp-content\/themes\/trilatino\/assets\/sass\/modules\/partials\/_navbar.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -18631,20 +18685,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/themes\/trilatino\/page-templates\/contact.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/page-templates\/contact.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/wp-content\/themes\/trilatino\/page-templates\/home.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/page-templates\/home.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/trilatino\/page-templates\/pages.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/page-templates\/pages.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/trilatino\/page-templates\/support-us.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/trilatino\/page-templates\/support-us.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -19885,6 +19948,61 @@
 		"initialSize": 210687,
 		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_0.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14346,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-300x216.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38213,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-300x216.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-300x216.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-300x94.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17616,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-300x94.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-300x94.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-90x90.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6532,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-90x90.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01-90x90.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210687,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2014\/08\/TriLatino_subpage_PROGRAM-TRAINING_685x216_01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24660,7 +24778,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Joe Skinner",
+"lastSavedByUser": "Joseph Skinner Jr",
 "manualImportLinks": {
 	},
 "projectAttributes": {
