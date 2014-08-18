@@ -11,7 +11,10 @@ footer{
 		color:#fff;
 	}
 	ul{
-		float: right;
+		columns: 2;
+  		-webkit-columns: 2;
+  		-moz-columns: 2;
+  		width: 360px;
 	}
 	li{
 		list-style-type: none;

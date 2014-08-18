@@ -3,7 +3,7 @@
 		</div>
 		<footer>
 		<?php 
-			$footer_args = array('post_type' => 'block', 'post_name'=>'footer'); 
+			$footer_args = array('post_type' => 'block', 'include' => '386');
 			$footer = get_posts($footer_args);
 			//echo "<pre>"; print_r($footer); echo "</pre>";
 		?>
@@ -17,6 +17,15 @@
 					?>
 				</div>
 				<div class="col-md-4 links">
+				<?php
+							$footer_menu_args = array(
+									'menu' => 'Footer Menu',
+									'container' => 'false',
+									'menu_class' => ''
+							);
+						wp_nav_menu($footer_menu_args);
+					?>
+				<!--
 				<ul>
 						<li><a href="#">Sitemap</a></li>
 						<li><a href="<?php echo site_url();?>/privacy">Privacy</a></li>
@@ -29,6 +38,7 @@
 						<li><a href="#">Shop</a></li>
 						<li><a href="<?php echo site_url();?>/volunteer">Volunteer</a></li>
 					</ul>
+					-->
 				</div>
 			</div>
 		</footer>

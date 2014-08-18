@@ -5299,7 +5299,7 @@ button.close {
     background: #dcdde1; }
   .navbar-nav > li > a:hover {
     background: #e9e9e9; }
-.navbar-nav > li.active {
+.navbar-nav > li.current_page_item {
   height: 115px;
   background: #dcdde1; }
 .navbar-nav > li:hover {
@@ -5434,7 +5434,10 @@ footer {
     font-family: "Arial", sans-serif;
     color: #fff; }
   footer ul {
-    float: right; }
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    width: 360px; }
   footer li {
     list-style-type: none; }
     footer li a {
@@ -5445,6 +5448,9 @@ footer {
         color: #fff; }
   footer .links {
     padding-top: 15px; }
+
+.fb-block {
+  margin-top: 16px; }
 
 /* Slider */
 .slick-slider {
