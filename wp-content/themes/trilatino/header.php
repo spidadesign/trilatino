@@ -11,6 +11,10 @@
 		<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo('template_directory'); ?>/assets/stylesheets/applications.css">
 	</head>
 	<body <?php body_class($class); ?>>
+	<?php
+		$training_args = array('post_type' => 'training');
+		$training = get_posts($training_args);
+	?>
 	<div class="top-bar"></div>
 	<nav class="navbar" role="navigation">
 			<div class="container"><!-- Brand and toggle get grouped for better mobile display -->
@@ -34,6 +38,16 @@
 						<li><a href="<?php echo site_url();?>/about">About Us</a></li>
 						<li class="dropdown">
 							<a href="<?php echo site_url();?>/training" class="dropdown-toggle" data-toggle="dropdown">Training</a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+								<?php foreach($training as $t): ?>
+										<li>
+											<a href="<?php echo $t->guid; ?>">
+												<?php echo $t->post_title; ?>
+											</a>
+										</li>
+
+								<?php endforeach; ?>
+							</ul>
 						</li>
 						<li><a href="<?php echo site_url();?>/coaching">Coaching</a></li>
 						<li><a href="<?php echo site_url();?>/support-us">Support Us</a></li>
@@ -43,4 +57,3 @@
 			</div>
 		</nav>
 		<div class="container">
-			
